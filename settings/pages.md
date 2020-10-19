@@ -38,6 +38,7 @@ Determines the URL key (path) for the page.
 ### File path
 
 Determines the file path where the page will be saved.
+*Usage note: If you choose to use relative links in the page's php file, using the base tag(https://www.w3schools.com/tags/tag_base.asp) will prevent those links from breaking.
 
 ### Meta keywords
 
